@@ -2,6 +2,8 @@
 
 I'm a Full-Stack developer experienced with Ruby, Rails, Stimulus, React and more. I’m currently working on [WarmUp](https://www.sendwarmup.com) and [Bonfire](https://app.bonfireapp.io). Both projects are SaaS apps built in Ruby on Rails.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ethan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yourfriendethan.com)
+
 ### Skills & Experience :computer:
 
 <summary>Languages</summary>
@@ -16,6 +18,10 @@ I'm a Full-Stack developer experienced with Ruby, Rails, Stimulus, React and mor
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Stimulus-informational?style=flat&logo=basecamp&logoColor=white&color=d9c6a4)
 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=endifmedia)
+
+![Profile views](https://gpvc.arturio.dev/endifmedia)  
 <!--
 <details>
 <summary>Other Tech && Tools I've used</summary>
